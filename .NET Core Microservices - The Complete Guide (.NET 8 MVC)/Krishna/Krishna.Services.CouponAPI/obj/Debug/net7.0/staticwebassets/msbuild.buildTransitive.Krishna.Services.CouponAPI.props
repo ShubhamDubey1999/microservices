@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Krishna.Services.CouponAPI.props" />
+</Project>
